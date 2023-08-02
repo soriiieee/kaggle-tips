@@ -10,8 +10,8 @@ import matplotlib.pyplot as plt
 
 
 """
-2023.7.24 
-kaggle で役に立ったもの
+2023.7.24 kaggle で役に立ったもの
+2023.8.2 更新
 """
 
 class Correlation:
@@ -37,6 +37,7 @@ class Correlation:
         correlations = df.loc[:,corr_cols].corrwith(df[target_col]).to_frame()
         
         if isABS:
+            print("ABS mode!!")
             correlations['Corr'] = correlations[0].abs()
         else:
             correlations['Corr'] = correlations[0]
@@ -45,12 +46,16 @@ class Correlation:
         
         return sorted_correlations
 
-    @classmethod()
-    def plot_corr_with_columns(cls,df,corr_cols,target_col="Class",isABS=False):
-        sorted_correlations = cls.get_corr_with_columns(df,corr_cols,target_col="Class",isABS=False)
-    
+    @classmethod
+    def plot_corr_with_columns(cls,df,corr_cols,target_col="Class",isABS=False,threshold=0.1):
+        sorted_correlations = cls.get_corr_with_columns(df,corr_cols,target_col="Class",isABS=isABS)
         fig, ax = plt.subplots(figsize=(6,4))
-        sns.heatmap(sorted_correlations.iloc[1:].to_frame()[sorted_correlations>=.15], cmap='inferno', annot=True, vmin=-1, vmax=1, ax=ax)
+        sns.heatmap(sorted_correlations.iloc[1:].to_frame()[sorted_correlations>=threshold], cmap='inferno', annot=True, vmin=-1, vmax=1, ax=ax)
+        
+        print("use-columns")
+        df_use = ((sorted_correlations>=threshold)>0).astype(int).reset_index()
+        cols =df_use[df_use["Corr"]==1]["index"].values.tolist()
+        print(cols)
         plt.title('Feature Correlations With Target')
         plt.show()
     
