@@ -1,3 +1,9 @@
 data/
 out/
 *.pkl
+*.ini
+*.csv
+*.png
+
+stock/utils/__pycache__/
+__pycache__/

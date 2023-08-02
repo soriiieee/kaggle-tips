@@ -1,0 +1,225 @@
+Date,Code,CompanyName,CompanyNameEnglish,Sector17Code,Sector17CodeName,Sector33Code,Sector33CodeName,ScaleCategory,MarketCode,MarketCodeName
+2023-05-10,1332,ニッスイ,Nissui Corporation,1,食品,50,水産・農林業,TOPIX Mid400,111,プライム
+2023-05-10,1605,ＩＮＰＥＸ,INPEX CORPORATION,2,エネルギー資源,1050,鉱業,TOPIX Mid400,111,プライム
+2023-05-10,1721,コムシスホールディングス,COMSYS Holdings Corporation,3,建設・資材,2050,建設業,TOPIX Mid400,111,プライム
+2023-05-10,1801,大成建設,TAISEI CORPORATION,3,建設・資材,2050,建設業,TOPIX Mid400,111,プライム
+2023-05-10,1802,大林組,OBAYASHI CORPORATION,3,建設・資材,2050,建設業,TOPIX Mid400,111,プライム
+2023-05-10,1803,清水建設,SHIMIZU CORPORATION,3,建設・資材,2050,建設業,TOPIX Mid400,111,プライム
+2023-05-10,1808,長谷工コーポレーション,HASEKO Corporation,3,建設・資材,2050,建設業,TOPIX Mid400,111,プライム
+2023-05-10,1812,鹿島建設,KAJIMA CORPORATION,3,建設・資材,2050,建設業,TOPIX Mid400,111,プライム
+2023-05-10,1925,大和ハウス工業,"DAIWA HOUSE INDUSTRY CO.,LTD.",3,建設・資材,2050,建設業,TOPIX Large70,111,プライム
+2023-05-10,1928,積水ハウス,"Sekisui House,Ltd.",3,建設・資材,2050,建設業,TOPIX Large70,111,プライム
+2023-05-10,1963,日揮ホールディングス,JGC HOLDINGS CORPORATION,3,建設・資材,2050,建設業,TOPIX Mid400,111,プライム
+2023-05-10,2002,日清製粉グループ本社,NISSHIN SEIFUN GROUP INC.,1,食品,3050,食料品,TOPIX Mid400,111,プライム
+2023-05-10,2269,明治ホールディングス,"Meiji Holdings Co.,Ltd.",1,食品,3050,食料品,TOPIX Mid400,111,プライム
+2023-05-10,2282,日本ハム,NH Foods Ltd.,1,食品,3050,食料品,TOPIX Mid400,111,プライム
+2023-05-10,2413,エムスリー,"M3,Inc.",10,情報通信・サービスその他,9050,サービス業,TOPIX Large70,111,プライム
+2023-05-10,2432,ディー・エヌ・エー,"DeNA Co.,Ltd.",10,情報通信・サービスその他,9050,サービス業,TOPIX Mid400,111,プライム
+2023-05-10,2501,サッポロホールディングス,SAPPORO HOLDINGS LIMITED,1,食品,3050,食料品,TOPIX Mid400,111,プライム
+2023-05-10,2502,アサヒグループホールディングス,"Asahi Group Holdings,Ltd.",1,食品,3050,食料品,TOPIX Large70,111,プライム
+2023-05-10,2503,キリンホールディングス,"Kirin Holdings Company,Limited",1,食品,3050,食料品,TOPIX Large70,111,プライム
+2023-05-10,2531,宝ホールディングス,TAKARA HOLDINGS INC.,1,食品,3050,食料品,TOPIX Mid400,111,プライム
+2023-05-10,2768,双日,Sojitz Corporation,13,商社・卸売,6050,卸売業,TOPIX Mid400,111,プライム
+2023-05-10,2801,キッコーマン,KIKKOMAN CORPORATION,1,食品,3050,食料品,TOPIX Mid400,111,プライム
+2023-05-10,2802,味の素,"Ajinomoto Co.,Inc.",1,食品,3050,食料品,TOPIX Large70,111,プライム
+2023-05-10,2871,ニチレイ,NICHIREI CORPORATION,1,食品,3050,食料品,TOPIX Mid400,111,プライム
+2023-05-10,2914,日本たばこ産業,JAPAN TOBACCO INC.,1,食品,3050,食料品,TOPIX Large70,111,プライム
+2023-05-10,3086,Ｊ．フロント　リテイリング,"J.FRONT RETAILING Co.,Ltd.",14,小売,6100,小売業,TOPIX Mid400,111,プライム
+2023-05-10,3099,三越伊勢丹ホールディングス,Isetan Mitsukoshi Holdings Ltd.,14,小売,6100,小売業,TOPIX Mid400,111,プライム
+2023-05-10,3289,東急不動産ホールディングス,Tokyu Fudosan Holdings Corporation,17,不動産,8050,不動産業,TOPIX Mid400,111,プライム
+2023-05-10,3382,セブン＆アイ・ホールディングス,"Seven & i Holdings Co.,Ltd.",14,小売,6100,小売業,TOPIX Core30,111,プライム
+2023-05-10,3401,帝人,TEIJIN LIMITED,4,素材・化学,3100,繊維製品,TOPIX Mid400,111,プライム
+2023-05-10,3402,東レ,"TORAY INDUSTRIES,INC.",4,素材・化学,3100,繊維製品,TOPIX Large70,111,プライム
+2023-05-10,3405,クラレ,"KURARAY CO.,LTD.",4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,3407,旭化成,ASAHI KASEI CORPORATION,4,素材・化学,3200,化学,TOPIX Large70,111,プライム
+2023-05-10,3436,ＳＵＭＣＯ,SUMCO CORPORATION,3,建設・資材,3550,金属製品,TOPIX Mid400,111,プライム
+2023-05-10,3659,ネクソン,"NEXON Co.,Ltd.",10,情報通信・サービスその他,5250,情報･通信業,TOPIX Mid400,111,プライム
+2023-05-10,3861,王子ホールディングス,Oji Holdings Corporation,4,素材・化学,3150,パルプ・紙,TOPIX Mid400,111,プライム
+2023-05-10,3863,日本製紙,"Nippon Paper Industries Co.,Ltd.",4,素材・化学,3150,パルプ・紙,TOPIX Small 1,111,プライム
+2023-05-10,4004,レゾナック・ホールディングス,Resonac Holdings Corporation,4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,4005,住友化学,"SUMITOMO CHEMICAL COMPANY,LIMITED",4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,4021,日産化学,Nissan Chemical Corporation,4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,4041,日本曹達,"Nippon Soda Co.,Ltd.",4,素材・化学,3200,化学,TOPIX Small 1,111,プライム
+2023-05-10,4042,東ソー,TOSOH CORPORATION,4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,4043,トクヤマ,Tokuyama Corporation,4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,4061,デンカ,Denka Company Limited,4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,4063,信越化学工業,"Shin-Etsu Chemical Co.,Ltd.",4,素材・化学,3200,化学,TOPIX Core30,111,プライム
+2023-05-10,4151,協和キリン,"Kyowa Kirin Co.,Ltd.",5,医薬品,3250,医薬品,TOPIX Mid400,111,プライム
+2023-05-10,4183,三井化学,"Mitsui Chemicals,Inc.",4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,4188,三菱ケミカルグループ,Mitsubishi Chemical Group Corporation,4,素材・化学,3200,化学,TOPIX Large70,111,プライム
+2023-05-10,4208,ＵＢＥ,UBE Corporation,4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,4324,電通グループ,DENTSU GROUP INC.,10,情報通信・サービスその他,9050,サービス業,TOPIX Mid400,111,プライム
+2023-05-10,4452,花王,Kao Corporation,4,素材・化学,3200,化学,TOPIX Large70,111,プライム
+2023-05-10,4502,武田薬品工業,Takeda Pharmaceutical Company Limited,5,医薬品,3250,医薬品,TOPIX Core30,111,プライム
+2023-05-10,4503,アステラス製薬,Astellas Pharma Inc.,5,医薬品,3250,医薬品,TOPIX Core30,111,プライム
+2023-05-10,4506,住友ファーマ,"Sumitomo Pharma Co.,Ltd.",5,医薬品,3250,医薬品,TOPIX Mid400,111,プライム
+2023-05-10,4507,塩野義製薬,"Shionogi & Co.,Ltd.",5,医薬品,3250,医薬品,TOPIX Large70,111,プライム
+2023-05-10,4519,中外製薬,"CHUGAI PHARMACEUTICAL CO.,LTD.",5,医薬品,3250,医薬品,TOPIX Large70,111,プライム
+2023-05-10,4523,エーザイ,"Eisai Co.,Ltd.",5,医薬品,3250,医薬品,TOPIX Large70,111,プライム
+2023-05-10,4543,テルモ,TERUMO CORPORATION,9,電機・精密,3750,精密機器,TOPIX Large70,111,プライム
+2023-05-10,4568,第一三共,"DAIICHI SANKYO COMPANY,LIMITED",5,医薬品,3250,医薬品,TOPIX Core30,111,プライム
+2023-05-10,4578,大塚ホールディングス,"Otsuka Holdings Co.,Ltd.",5,医薬品,3250,医薬品,TOPIX Large70,111,プライム
+2023-05-10,4631,ＤＩＣ,DIC Corporation,4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,4661,オリエンタルランド,"ORIENTAL LAND CO.,LTD.",10,情報通信・サービスその他,9050,サービス業,TOPIX Large70,111,プライム
+2023-05-10,4689,Ｚホールディングス,Z Holdings Corporation,10,情報通信・サービスその他,5250,情報･通信業,TOPIX Large70,111,プライム
+2023-05-10,4704,トレンドマイクロ,Trend Micro Incorporated,10,情報通信・サービスその他,5250,情報･通信業,TOPIX Mid400,111,プライム
+2023-05-10,4751,サイバーエージェント,"CyberAgent,Inc.",10,情報通信・サービスその他,9050,サービス業,TOPIX Mid400,111,プライム
+2023-05-10,4901,富士フイルムホールディングス,FUJIFILM Holdings Corporation,4,素材・化学,3200,化学,TOPIX Large70,111,プライム
+2023-05-10,4902,コニカミノルタ,"KONICA MINOLTA,INC.",9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,4911,資生堂,"Shiseido Company,Limited",4,素材・化学,3200,化学,TOPIX Large70,111,プライム
+2023-05-10,5019,出光興産,"Idemitsu Kosan Co.,Ltd.",2,エネルギー資源,3300,石油･石炭製品,TOPIX Mid400,111,プライム
+2023-05-10,5020,ＥＮＥＯＳホールディングス,"ENEOS Holdings,Inc.",2,エネルギー資源,3300,石油･石炭製品,TOPIX Large70,111,プライム
+2023-05-10,5101,横浜ゴム,"The Yokohama Rubber Company,Limited",6,自動車・輸送機,3350,ゴム製品,TOPIX Mid400,111,プライム
+2023-05-10,5108,ブリヂストン,BRIDGESTONE CORPORATION,6,自動車・輸送機,3350,ゴム製品,TOPIX Large70,111,プライム
+2023-05-10,5201,ＡＧＣ,AGC Inc.,3,建設・資材,3400,ガラス･土石製品,TOPIX Mid400,111,プライム
+2023-05-10,5202,日本板硝子,"Nippon Sheet Glass Company,Limited",3,建設・資材,3400,ガラス･土石製品,TOPIX Small 1,111,プライム
+2023-05-10,5214,日本電気硝子,"Nippon Electric Glass Co.,Ltd.",3,建設・資材,3400,ガラス･土石製品,TOPIX Mid400,111,プライム
+2023-05-10,5232,住友大阪セメント,"Sumitomo Osaka Cement Co.,Ltd.",3,建設・資材,3400,ガラス･土石製品,TOPIX Mid400,111,プライム
+2023-05-10,5233,太平洋セメント,TAIHEIYO CEMENT CORPORATION,3,建設・資材,3400,ガラス･土石製品,TOPIX Mid400,111,プライム
+2023-05-10,5301,東海カーボン,"TOKAI CARBON CO.,LTD.",3,建設・資材,3400,ガラス･土石製品,TOPIX Mid400,111,プライム
+2023-05-10,5332,ＴＯＴＯ,TOTO LTD.,3,建設・資材,3400,ガラス･土石製品,TOPIX Mid400,111,プライム
+2023-05-10,5333,日本碍子,"NGK INSULATORS,LTD.",3,建設・資材,3400,ガラス･土石製品,TOPIX Mid400,111,プライム
+2023-05-10,5401,日本製鉄,NIPPON STEEL CORPORATION,7,鉄鋼・非鉄,3450,鉄鋼,TOPIX Large70,111,プライム
+2023-05-10,5406,神戸製鋼所,"Kobe Steel,Ltd.",7,鉄鋼・非鉄,3450,鉄鋼,TOPIX Mid400,111,プライム
+2023-05-10,5411,ＪＦＥホールディングス,"JFE Holdings,Inc.",7,鉄鋼・非鉄,3450,鉄鋼,TOPIX Mid400,111,プライム
+2023-05-10,5541,大平洋金属,"PACIFIC METALS CO.,LTD.",7,鉄鋼・非鉄,3450,鉄鋼,TOPIX Small 1,111,プライム
+2023-05-10,5631,日本製鋼所,"The Japan Steel Works,Ltd.",8,機械,3600,機械,TOPIX Mid400,111,プライム
+2023-05-10,5706,三井金属鉱業,"Mitsui Mining and Smelting Company,Limited",7,鉄鋼・非鉄,3500,非鉄金属,TOPIX Mid400,111,プライム
+2023-05-10,5711,三菱マテリアル,Mitsubishi Materials Corporation,7,鉄鋼・非鉄,3500,非鉄金属,TOPIX Mid400,111,プライム
+2023-05-10,5713,住友金属鉱山,"Sumitomo Metal Mining Co.,Ltd.",7,鉄鋼・非鉄,3500,非鉄金属,TOPIX Large70,111,プライム
+2023-05-10,5714,ＤＯＷＡホールディングス,"DOWA HOLDINGS CO.,LTD.",7,鉄鋼・非鉄,3500,非鉄金属,TOPIX Mid400,111,プライム
+2023-05-10,5801,古河電気工業,"Furukawa Electric Co.,Ltd.",7,鉄鋼・非鉄,3500,非鉄金属,TOPIX Mid400,111,プライム
+2023-05-10,5802,住友電気工業,"Sumitomo Electric Industries,Ltd.",7,鉄鋼・非鉄,3500,非鉄金属,TOPIX Large70,111,プライム
+2023-05-10,5803,フジクラ,Fujikura Ltd.,7,鉄鋼・非鉄,3500,非鉄金属,TOPIX Mid400,111,プライム
+2023-05-10,5831,しずおかフィナンシャルグループ,"Shizuoka Financial Group,Inc.",15,銀行,7050,銀行業,TOPIX Mid400,111,プライム
+2023-05-10,6098,リクルートホールディングス,"Recruit Holdings Co.,Ltd.",10,情報通信・サービスその他,9050,サービス業,TOPIX Core30,111,プライム
+2023-05-10,6103,オークマ,OKUMA Corporation,8,機械,3600,機械,TOPIX Mid400,111,プライム
+2023-05-10,6113,アマダ,"AMADA CO.,LTD.",8,機械,3600,機械,TOPIX Mid400,111,プライム
+2023-05-10,6178,日本郵政,"JAPAN POST HOLDINGS Co.,Ltd.",10,情報通信・サービスその他,9050,サービス業,TOPIX Large70,111,プライム
+2023-05-10,6273,ＳＭＣ,SMC CORPORATION,8,機械,3600,機械,TOPIX Core30,111,プライム
+2023-05-10,6301,小松製作所,KOMATSU LTD.,8,機械,3600,機械,TOPIX Large70,111,プライム
+2023-05-10,6302,住友重機械工業,"SUMITOMO HEAVY INDUSTRIES,LTD.",8,機械,3600,機械,TOPIX Mid400,111,プライム
+2023-05-10,6305,日立建機,"Hitachi Construction Machinery Co.,Ltd.",8,機械,3600,機械,TOPIX Mid400,111,プライム
+2023-05-10,6326,クボタ,KUBOTA CORPORATION,8,機械,3600,機械,TOPIX Large70,111,プライム
+2023-05-10,6361,荏原製作所,EBARA CORPORATION,8,機械,3600,機械,TOPIX Mid400,111,プライム
+2023-05-10,6367,ダイキン工業,"DAIKIN INDUSTRIES,LTD.",8,機械,3600,機械,TOPIX Core30,111,プライム
+2023-05-10,6471,日本精工,NSK Ltd.,8,機械,3600,機械,TOPIX Mid400,111,プライム
+2023-05-10,6472,ＮＴＮ,NTN CORPORATION,8,機械,3600,機械,TOPIX Mid400,111,プライム
+2023-05-10,6473,ジェイテクト,JTEKT Corporation,8,機械,3600,機械,TOPIX Mid400,111,プライム
+2023-05-10,6479,ミネベアミツミ,MINEBEA MITSUMI Inc.,9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6501,日立製作所,"Hitachi,Ltd.",9,電機・精密,3650,電気機器,TOPIX Core30,111,プライム
+2023-05-10,6503,三菱電機,Mitsubishi Electric Corporation,9,電機・精密,3650,電気機器,TOPIX Large70,111,プライム
+2023-05-10,6504,富士電機,"FUJI ELECTRIC CO.,LTD.",9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6506,安川電機,YASKAWA Electric Corporation,9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6594,ニデック,NIDEC CORPORATION,9,電機・精密,3650,電気機器,TOPIX Core30,111,プライム
+2023-05-10,6645,オムロン,OMRON Corporation,9,電機・精密,3650,電気機器,TOPIX Large70,111,プライム
+2023-05-10,6674,ジーエス・ユアサ　コーポレーション,GS Yuasa Corporation,9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6701,日本電気,NEC Corporation,9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6702,富士通,Fujitsu Limited,9,電機・精密,3650,電気機器,TOPIX Large70,111,プライム
+2023-05-10,6723,ルネサスエレクトロニクス,Renesas Electronics Corporation,9,電機・精密,3650,電気機器,TOPIX Large70,111,プライム
+2023-05-10,6724,セイコーエプソン,SEIKO EPSON CORPORATION,9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6752,パナソニック　ホールディングス,Panasonic Holdings Corporation,9,電機・精密,3650,電気機器,TOPIX Large70,111,プライム
+2023-05-10,6753,シャープ,Sharp Corporation,9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6758,ソニーグループ,SONY GROUP CORPORATION,9,電機・精密,3650,電気機器,TOPIX Core30,111,プライム
+2023-05-10,6762,ＴＤＫ,TDK Corporation,9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6770,アルプスアルパイン,"ALPS ALPINE CO.,LTD.",9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6841,横河電機,YOKOGAWA ELECTRIC CORPORATION,9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6857,アドバンテスト,ADVANTEST CORPORATION,9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6861,キーエンス,KEYENCE CORPORATION,9,電機・精密,3650,電気機器,TOPIX Core30,111,プライム
+2023-05-10,6902,デンソー,DENSO CORPORATION,6,自動車・輸送機,3700,輸送用機器,TOPIX Large70,111,プライム
+2023-05-10,6952,カシオ計算機,"CASIO COMPUTER CO.,LTD.",9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6954,ファナック,FANUC CORPORATION,9,電機・精密,3650,電気機器,TOPIX Core30,111,プライム
+2023-05-10,6971,京セラ,KYOCERA CORPORATION,9,電機・精密,3650,電気機器,TOPIX Large70,111,プライム
+2023-05-10,6976,太陽誘電,"TAIYO YUDEN CO.,LTD.",9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,6981,村田製作所,"Murata Manufacturing Co.,Ltd.",9,電機・精密,3650,電気機器,TOPIX Core30,111,プライム
+2023-05-10,6988,日東電工,NITTO DENKO CORPORATION,4,素材・化学,3200,化学,TOPIX Mid400,111,プライム
+2023-05-10,7003,三井Ｅ＆Ｓ,"MITSUI E&S Co.,Ltd.",8,機械,3600,機械,TOPIX Small 1,111,プライム
+2023-05-10,7004,日立造船,Hitachi Zosen Corporation,8,機械,3600,機械,TOPIX Small 1,111,プライム
+2023-05-10,7011,三菱重工業,"Mitsubishi Heavy Industries,Ltd.",8,機械,3600,機械,TOPIX Large70,111,プライム
+2023-05-10,7012,川崎重工業,"Kawasaki Heavy Industries,Ltd.",6,自動車・輸送機,3700,輸送用機器,TOPIX Mid400,111,プライム
+2023-05-10,7186,コンコルディア・フィナンシャルグループ,"Concordia Financial Group,Ltd.",15,銀行,7050,銀行業,TOPIX Mid400,111,プライム
+2023-05-10,7201,日産自動車,"NISSAN MOTOR CO.,LTD.",6,自動車・輸送機,3700,輸送用機器,TOPIX Large70,111,プライム
+2023-05-10,7202,いすゞ自動車,ISUZU MOTORS LIMITED,6,自動車・輸送機,3700,輸送用機器,TOPIX Mid400,111,プライム
+2023-05-10,7203,トヨタ自動車,TOYOTA MOTOR CORPORATION,6,自動車・輸送機,3700,輸送用機器,TOPIX Core30,111,プライム
+2023-05-10,7205,日野自動車,"HINO MOTORS,LTD.",6,自動車・輸送機,3700,輸送用機器,TOPIX Mid400,111,プライム
+2023-05-10,7211,三菱自動車工業,MITSUBISHI MOTORS CORPORATION,6,自動車・輸送機,3700,輸送用機器,TOPIX Mid400,111,プライム
+2023-05-10,7261,マツダ,Mazda Motor Corporation,6,自動車・輸送機,3700,輸送用機器,TOPIX Mid400,111,プライム
+2023-05-10,7267,本田技研工業,"HONDA MOTOR CO.,LTD.",6,自動車・輸送機,3700,輸送用機器,TOPIX Core30,111,プライム
+2023-05-10,7269,スズキ,SUZUKI MOTOR CORPORATION,6,自動車・輸送機,3700,輸送用機器,TOPIX Large70,111,プライム
+2023-05-10,7270,ＳＵＢＡＲＵ,SUBARU CORPORATION,6,自動車・輸送機,3700,輸送用機器,TOPIX Large70,111,プライム
+2023-05-10,7272,ヤマハ発動機,"Yamaha Motor Co.,Ltd.",6,自動車・輸送機,3700,輸送用機器,TOPIX Mid400,111,プライム
+2023-05-10,7731,ニコン,NIKON CORPORATION,9,電機・精密,3750,精密機器,TOPIX Mid400,111,プライム
+2023-05-10,7733,オリンパス,OLYMPUS CORPORATION,9,電機・精密,3750,精密機器,TOPIX Large70,111,プライム
+2023-05-10,7735,ＳＣＲＥＥＮホールディングス,"SCREEN Holdings Co.,Ltd.",9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,7741,ＨＯＹＡ,HOYA CORPORATION,9,電機・精密,3750,精密機器,TOPIX Core30,111,プライム
+2023-05-10,7751,キヤノン,CANON INC.,9,電機・精密,3650,電気機器,TOPIX Large70,111,プライム
+2023-05-10,7752,リコー,"RICOH COMPANY,LTD.",9,電機・精密,3650,電気機器,TOPIX Mid400,111,プライム
+2023-05-10,7762,シチズン時計,"Citizen Watch Co.,Ltd.",9,電機・精密,3750,精密機器,TOPIX Small 1,111,プライム
+2023-05-10,7832,バンダイナムコホールディングス,Bandai Namco Holdings Inc.,10,情報通信・サービスその他,3800,その他製品,TOPIX Large70,111,プライム
+2023-05-10,7911,凸版印刷,TOPPAN INC.,10,情報通信・サービスその他,3800,その他製品,TOPIX Mid400,111,プライム
+2023-05-10,7912,大日本印刷,"Dai Nippon Printing Co.,Ltd.",10,情報通信・サービスその他,3800,その他製品,TOPIX Mid400,111,プライム
+2023-05-10,7951,ヤマハ,YAMAHA CORPORATION,10,情報通信・サービスその他,3800,その他製品,TOPIX Mid400,111,プライム
+2023-05-10,7974,任天堂,"Nintendo Co.,Ltd.",10,情報通信・サービスその他,3800,その他製品,TOPIX Core30,111,プライム
+2023-05-10,8001,伊藤忠商事,ITOCHU Corporation,13,商社・卸売,6050,卸売業,TOPIX Core30,111,プライム
+2023-05-10,8002,丸紅,Marubeni Corporation,13,商社・卸売,6050,卸売業,TOPIX Large70,111,プライム
+2023-05-10,8015,豊田通商,TOYOTA TSUSHO CORPORATION,13,商社・卸売,6050,卸売業,TOPIX Mid400,111,プライム
+2023-05-10,8031,三井物産,"MITSUI & CO.,LTD.",13,商社・卸売,6050,卸売業,TOPIX Core30,111,プライム
+2023-05-10,8035,東京エレクトロン,Tokyo Electron Limited,9,電機・精密,3650,電気機器,TOPIX Core30,111,プライム
+2023-05-10,8053,住友商事,"SUMITOMO CORPORATION (SUMITOMO SHOJI KAISHA,LTD.)",13,商社・卸売,6050,卸売業,TOPIX Large70,111,プライム
+2023-05-10,8058,三菱商事,Mitsubishi Corporation,13,商社・卸売,6050,卸売業,TOPIX Core30,111,プライム
+2023-05-10,8233,高島屋,"Takashimaya Company,Limited",14,小売,6100,小売業,TOPIX Mid400,111,プライム
+2023-05-10,8252,丸井グループ,"MARUI GROUP CO.,LTD.",14,小売,6100,小売業,TOPIX Mid400,111,プライム
+2023-05-10,8253,クレディセゾン,"Credit Saison Co.,Ltd.",16,金融（除く銀行）,7200,その他金融業,TOPIX Mid400,111,プライム
+2023-05-10,8267,イオン,"AEON CO.,LTD.",14,小売,6100,小売業,TOPIX Large70,111,プライム
+2023-05-10,8304,あおぞら銀行,"Aozora Bank,Ltd.",15,銀行,7050,銀行業,TOPIX Mid400,111,プライム
+2023-05-10,8306,三菱ＵＦＪフィナンシャル・グループ,"Mitsubishi UFJ Financial Group,Inc.",15,銀行,7050,銀行業,TOPIX Core30,111,プライム
+2023-05-10,8308,りそなホールディングス,"Resona Holdings, Inc.",15,銀行,7050,銀行業,TOPIX Large70,111,プライム
+2023-05-10,8309,三井住友トラスト・ホールディングス,"Sumitomo Mitsui Trust Holdings,Inc.",15,銀行,7050,銀行業,TOPIX Large70,111,プライム
+2023-05-10,8316,三井住友フィナンシャルグループ,"Sumitomo Mitsui Financial Group,Inc.",15,銀行,7050,銀行業,TOPIX Core30,111,プライム
+2023-05-10,8331,千葉銀行,"The Chiba Bank,Ltd.",15,銀行,7050,銀行業,TOPIX Mid400,111,プライム
+2023-05-10,8354,ふくおかフィナンシャルグループ,"Fukuoka Financial Group,Inc.",15,銀行,7050,銀行業,TOPIX Mid400,111,プライム
+2023-05-10,8411,みずほフィナンシャルグループ,"Mizuho Financial Group,Inc.",15,銀行,7050,銀行業,TOPIX Core30,111,プライム
+2023-05-10,8591,オリックス,ORIX CORPORATION,16,金融（除く銀行）,7200,その他金融業,TOPIX Large70,111,プライム
+2023-05-10,8601,大和証券グループ本社,Daiwa Securities Group Inc.,16,金融（除く銀行）,7100,証券･商品先物取引業,TOPIX Mid400,111,プライム
+2023-05-10,8604,野村ホールディングス,"Nomura Holdings, Inc.",16,金融（除く銀行）,7100,証券･商品先物取引業,TOPIX Large70,111,プライム
+2023-05-10,8628,松井証券,"MATSUI SECURITIES CO.,LTD.",16,金融（除く銀行）,7100,証券･商品先物取引業,TOPIX Small 1,111,プライム
+2023-05-10,8630,ＳＯＭＰＯホールディングス,"Sompo Holdings,Inc.",16,金融（除く銀行）,7150,保険業,TOPIX Large70,111,プライム
+2023-05-10,8697,日本取引所グループ,"Japan Exchange Group,Inc.",16,金融（除く銀行）,7200,その他金融業,TOPIX Large70,111,プライム
+2023-05-10,8725,ＭＳ＆ＡＤインシュアランスグループホールディングス,"MS&AD Insurance Group Holdings,Inc.",16,金融（除く銀行）,7150,保険業,TOPIX Large70,111,プライム
+2023-05-10,8750,第一生命ホールディングス,"Dai-ichi Life Holdings,Inc.",16,金融（除く銀行）,7150,保険業,TOPIX Large70,111,プライム
+2023-05-10,8766,東京海上ホールディングス,"Tokio Marine Holdings,Inc.",16,金融（除く銀行）,7150,保険業,TOPIX Core30,111,プライム
+2023-05-10,8795,Ｔ＆Ｄホールディングス,"T&D Holdings, Inc.",16,金融（除く銀行）,7150,保険業,TOPIX Mid400,111,プライム
+2023-05-10,8801,三井不動産,"Mitsui Fudosan Co.,Ltd.",17,不動産,8050,不動産業,TOPIX Large70,111,プライム
+2023-05-10,8802,三菱地所,"Mitsubishi Estate Company,Limited",17,不動産,8050,不動産業,TOPIX Large70,111,プライム
+2023-05-10,8804,東京建物,"Tokyo Tatemono Co.,Ltd.",17,不動産,8050,不動産業,TOPIX Mid400,111,プライム
+2023-05-10,8830,住友不動産,"Sumitomo Realty & Development Co.,Ltd.",17,不動産,8050,不動産業,TOPIX Large70,111,プライム
+2023-05-10,9001,東武鉄道,"TOBU RAILWAY CO.,LTD.",12,運輸・物流,5050,陸運業,TOPIX Mid400,111,プライム
+2023-05-10,9005,東急,TOKYU CORPORATION,12,運輸・物流,5050,陸運業,TOPIX Mid400,111,プライム
+2023-05-10,9007,小田急電鉄,"Odakyu Electric Railway Co.,Ltd.",12,運輸・物流,5050,陸運業,TOPIX Mid400,111,プライム
+2023-05-10,9008,京王電鉄,Keio Corporation,12,運輸・物流,5050,陸運業,TOPIX Mid400,111,プライム
+2023-05-10,9009,京成電鉄,"Keisei Electric Railway Co.,Ltd.",12,運輸・物流,5050,陸運業,TOPIX Mid400,111,プライム
+2023-05-10,9020,東日本旅客鉄道,East Japan Railway Company,12,運輸・物流,5050,陸運業,TOPIX Large70,111,プライム
+2023-05-10,9021,西日本旅客鉄道,West Japan Railway Company,12,運輸・物流,5050,陸運業,TOPIX Large70,111,プライム
+2023-05-10,9022,東海旅客鉄道,Central Japan Railway Company,12,運輸・物流,5050,陸運業,TOPIX Large70,111,プライム
+2023-05-10,9064,ヤマトホールディングス,"YAMATO HOLDINGS CO.,LTD.",12,運輸・物流,5050,陸運業,TOPIX Mid400,111,プライム
+2023-05-10,9101,日本郵船,Nippon Yusen Kabushiki Kaisha,12,運輸・物流,5100,海運業,TOPIX Large70,111,プライム
+2023-05-10,9104,商船三井,"Mitsui O.S.K.Lines,Ltd.",12,運輸・物流,5100,海運業,TOPIX Mid400,111,プライム
+2023-05-10,9107,川崎汽船,"Kawasaki Kisen Kaisha,Ltd.",12,運輸・物流,5100,海運業,TOPIX Mid400,111,プライム
+2023-05-10,9147,ＮＩＰＰＯＮ　ＥＸＰＲＥＳＳホールディングス,"NIPPON EXPRESS HOLDINGS,INC.",12,運輸・物流,5050,陸運業,TOPIX Mid400,111,プライム
+2023-05-10,9201,日本航空,"Japan Airlines Co.,Ltd.",12,運輸・物流,5150,空運業,TOPIX Mid400,111,プライム
+2023-05-10,9202,ＡＮＡホールディングス,ANA HOLDINGS INC.,12,運輸・物流,5150,空運業,TOPIX Large70,111,プライム
+2023-05-10,9301,三菱倉庫,Mitsubishi Logistics Corporation,12,運輸・物流,5200,倉庫･運輸関連業,TOPIX Mid400,111,プライム
+2023-05-10,9432,日本電信電話,NIPPON TELEGRAPH AND TELEPHONE CORPORATION,10,情報通信・サービスその他,5250,情報･通信業,TOPIX Core30,111,プライム
+2023-05-10,9433,ＫＤＤＩ,KDDI CORPORATION,10,情報通信・サービスその他,5250,情報･通信業,TOPIX Core30,111,プライム
+2023-05-10,9434,ソフトバンク,SoftBank Corp.,10,情報通信・サービスその他,5250,情報･通信業,TOPIX Core30,111,プライム
+2023-05-10,9501,東京電力ホールディングス,"Tokyo Electric Power Company Holdings,Incorporated",11,電気・ガス,4050,電気･ガス業,TOPIX Mid400,111,プライム
+2023-05-10,9502,中部電力,"Chubu Electric Power Company,Incorporated",11,電気・ガス,4050,電気･ガス業,TOPIX Mid400,111,プライム
+2023-05-10,9503,関西電力,"The Kansai Electric Power Company,Incorporated",11,電気・ガス,4050,電気･ガス業,TOPIX Mid400,111,プライム
+2023-05-10,9531,東京瓦斯,"TOKYO GAS CO.,LTD.",11,電気・ガス,4050,電気･ガス業,TOPIX Mid400,111,プライム
+2023-05-10,9532,大阪瓦斯,"OSAKA GAS CO.,LTD.",11,電気・ガス,4050,電気･ガス業,TOPIX Mid400,111,プライム
+2023-05-10,9602,東宝,"TOHO CO.,LTD",10,情報通信・サービスその他,5250,情報･通信業,TOPIX Mid400,111,プライム
+2023-05-10,9613,エヌ・ティ・ティ・データ,NTT DATA CORPORATION,10,情報通信・サービスその他,5250,情報･通信業,TOPIX Mid400,111,プライム
+2023-05-10,9735,セコム,"SECOM CO.,LTD.",10,情報通信・サービスその他,9050,サービス業,TOPIX Large70,111,プライム
+2023-05-10,9766,コナミグループ,KONAMI GROUP CORPORATION,10,情報通信・サービスその他,5250,情報･通信業,TOPIX Mid400,111,プライム
+2023-05-10,9983,ファーストリテイリング,"FAST RETAILING CO.,LTD.",14,小売,6100,小売業,TOPIX Large70,111,プライム
+2023-05-10,9984,ソフトバンクグループ,SoftBank Group Corp.,10,情報通信・サービスその他,5250,情報･通信業,TOPIX Core30,111,プライム
